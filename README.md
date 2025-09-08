@@ -20,5 +20,5 @@ Through this project, I strengthened my skills in:
 •	Storytelling with data.
 •	Designing clean, interactive dashboards.
 •	Communicating insights effectively for decision-making.
-
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/lalit.ramrakhiani/viz/HealthcareAnalyticsDashboard_17572284166860/Dashboard1)
 
